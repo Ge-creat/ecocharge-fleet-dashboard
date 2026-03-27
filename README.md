@@ -60,7 +60,7 @@ Solution:
 
 ---
 
-## 📹 Demo
+## Demo
 
 Include a 5-minute screen recording demonstrating:
 - Fleet display
