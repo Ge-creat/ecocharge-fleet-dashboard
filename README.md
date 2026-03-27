@@ -1,11 +1,14 @@
 # EcoCharge Fleet Dashboard
 
-## 📌 Project Overview
+## Project Overview
 A simple web-based dashboard for monitoring electric vehicles and calculating charging costs.
 
 ---
 
-## 🚀 Features
+## Features
+- Fleet overview displaying 7 EVs
+- Charging cost calculator
+- Input validation
 
 ### 1. Fleet Overview
 - Displays 7 electric vehicles
@@ -23,7 +26,7 @@ A simple web-based dashboard for monitoring electric vehicles and calculating ch
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Download or clone the repository
 2. Open `index.html` in your browser
@@ -31,14 +34,14 @@ A simple web-based dashboard for monitoring electric vehicles and calculating ch
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 1. Open `tests/calculator.test.js` in browser console or link it in HTML
 2. Check console for results
 
 ---
 
-## 👥 Team Workflow
+## Team Workflow
 
 - Feature branches used:
   - feature/fleet-overview
@@ -47,7 +50,7 @@ A simple web-based dashboard for monitoring electric vehicles and calculating ch
 
 ---
 
-## ⚠️ Code Review Note
+## Code Review Note
 
 Potential bug:
 - Invalid inputs (negative or non-numeric values) could break calculations.
